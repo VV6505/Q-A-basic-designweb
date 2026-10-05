@@ -8,7 +8,9 @@
       "Có tính tương thích sinh học cao và có thể bị enzyme cơ thể phân hủy thành các chất vô hại.",
       "Có khả năng phản ứng với từ trường của máy MRI."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 2,
@@ -19,7 +21,9 @@
       "Cộng hưởng Plasmon Bề mặt (SPR) hấp thụ ánh sáng cận hồng ngoại và tỏa nhiệt mạnh.",
       "Quá trình thủy phân lớp vỏ vàng sinh ra gốc tự do (ROS)."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 3,
@@ -30,7 +34,9 @@
       "Vì chúng bị đại thực bào ăn ngay lập tức khi vừa vào máu.",
       "Vì vỏ oxit sắt cực kỳ kỵ nước, không bám dính vào hồng cầu."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 4,
@@ -41,7 +47,9 @@
       "Chì oxit do ức chế enzyme thần kinh.",
       "Vi nhựa do gây tắc nghẽn dạ dày."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 5,
@@ -52,7 +60,9 @@
       "Nano vô cơ chỉ tự lắp ráp ở nhiệt độ cơ thể; Nano hữu cơ cần nung ở nhiệt độ cao.",
       "Cả hai đều chỉ dựa vào lực Van der Waals."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 6,
@@ -63,7 +73,9 @@
       "Không thể hình thành hạt nano.",
       "Sản phẩm bị phân hủy hoàn toàn thành pha khí."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 7,
@@ -74,7 +86,9 @@
       "Liposome chỉ được cấu tạo từ các ion kim loại vô cơ; trong khi LNP được cấu tạo hoàn toàn từ các chuỗi DNA tổng hợp.",
       "Liposome không có khả năng mang thuốc kỵ nước; trong khi LNP chỉ có thể mang thuốc ưa nước trong lõi."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 8,
@@ -85,7 +99,9 @@
       "Từ 500 nm đến 800 nm.",
       "Trên 1.000 nm."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 9,
@@ -96,7 +112,9 @@
       "Không, vì kích thước trung bình tính theo khối lượng vượt quá ngưỡng 100 nm.",
       "Có, nhưng chỉ được áp dụng nếu mẫu ở dạng lỏng chứ không áp dụng cho dạng bột khô."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 10,
@@ -107,7 +125,9 @@
       "Vật liệu nano 3D cấu trúc hạt.",
       "Vật liệu phi nano (Non-nanomaterial)."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 11,
@@ -118,7 +138,9 @@
       "Hiệu ứng kỵ nước (Hydrophobic effect) và các tương tác phi cộng hóa trị.",
       "Phản ứng phân hủy bằng nhiệt độ cao."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 12,
@@ -129,7 +151,9 @@
       "Tăng cường khả năng chịu nhiệt của Liposome.",
       "Làm cho dung dịch có màu sắc dễ quan sát dưới kính hiển vi."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 13,
@@ -140,7 +164,9 @@
       "Phải có nhiệt độ sôi trên 150°C.",
       "Phải là dung môi có tính acid mạnh."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 14,
@@ -151,7 +177,9 @@
       "Vì chúng tạo ra liên kết cộng hóa trị bền vững, giúp giữ chặt dược chất.",
       "Vì chúng sử dụng bức xạ tia cực tím để định hình lớp vỏ ngoài của hạt nano."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 15,
@@ -162,7 +190,9 @@
       "Gồm các protein có ái lực liên kết cao với bề mặt hạt nano.",
       "Chỉ chứa duy nhất protein Albumin."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 16,
@@ -173,7 +203,9 @@
       "Các protein tích điện âm luôn bám vào bề mặt hạt nano trước các protein tích điện dương.",
       "Hạt nano tự động phá hủy protein khi tiếp xúc."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 17,
@@ -184,7 +216,9 @@
       "Immunoglobulin G (IgG) và các protein hệ Bổ thể (như C3b).",
       "Kininogen trọng lượng phân tử cao."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 18,
@@ -195,7 +229,9 @@
       "Gây kết tụ hạt nano ngay lập tức.",
       "Tăng cường khả năng nhắm đích tế bào gan."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 19,
@@ -206,7 +242,9 @@
       "Bọc hạt nano bằng lõi Vàng nguyên chất.",
       "Nhiệt độ của môi trường hạ xuống dưới âm 50 độ C."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 20,
@@ -217,7 +255,9 @@
       "Dưới 100 nm.",
       "Bất kỳ hạt nano nào cũng thải được qua thận."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 21,
@@ -228,7 +268,9 @@
       "Do máu có lực ion rất cao (chứa nhiều muối như Na+, Cl-) làm suy giảm lực đẩy tĩnh điện giữa các hạt, khiến lực Van der Waals chiếm ưu thế.",
       "Do máu có độ pH quá kiềm so với nước."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 22,
@@ -239,7 +281,9 @@
       "Cắt đứt sợi DNA của vi khuẩn.",
       "Cung cấp dinh dưỡng sắt trực tiếp cho hồng cầu."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 23,
@@ -250,7 +294,9 @@
       "Có 1 chiều nằm trong thang nano, 2 chiều lớn hơn 100 nm (ví dụ: lá nano, màng mỏng).",
       "Cả 3 chiều đều lớn hơn 100 nm nhưng bề mặt có cấu trúc hạt nano."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 24,
@@ -261,7 +307,9 @@
       "Hạt Liposome bị co lại khi cho vào cuvette đo của thiết bị DLS.",
       "DLS chỉ đo được các hạt bị vón cục trong dung dịch."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 25,
@@ -272,7 +320,9 @@
       "FDA mở rộng phạm vi xem xét lên tới 1.000 nm đối với các hệ thống được thiết kế mang tính chất sinh- dược học mới phát sinh do kích thước.",
       "FDA chỉ công nhận các cấu trúc nano có nguồn gốc từ Polymer tổng hợp."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 26,
@@ -283,7 +333,9 @@
       "Biến mất hoàn toàn.",
       "Hợp nhất thành một mức năng lượng duy nhất."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 27,
@@ -294,7 +346,9 @@
       "Không bị tẩy trắng quang học và có thể nhuộm đa kênh chỉ bằng 1 bước sóng kích thích.",
       "Giá thành rẻ và an toàn sinh học tuyệt đối 100%."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 28,
@@ -305,7 +359,9 @@
       "Vì tia NIR có thể xuyên sâu qua mô (da, máu, nước) 3-5 cm mà ít bị hấp thụ và tán xạ.",
       "Vì tia NIR mang năng lượng cực mạnh, tương đương tia X."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 29,
@@ -316,7 +372,9 @@
       "Lắp ráp các nguyên tử, phân tử hoặc ion thành cấu trúc nano.",
       "Bóc tách các lớp vật liệu mỏng từ một khối vật liệu gốc."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 30,
@@ -327,7 +385,9 @@
       "Trong bình chịu áp suất cao ở nhiệt độ phòng.",
       "Bề mặt dung môi hữu cơ không bay hơi."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 31,
@@ -338,7 +398,9 @@
       "Không thể tạo ra các cấu trúc carbon nano như CNTs hay Graphene.",
       "Sản phẩm thu được hoàn toàn không bám dính trên đế."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 32,
@@ -349,7 +411,9 @@
       "Bình chịu áp (Autoclave) lót nhựa Teflon.",
       "Chip vi lưu (Microfluidic chip)."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 33,
@@ -360,7 +424,9 @@
       "Nó sẽ duy trì \"Danh tính tổng hợp\" lâu hơn hạt nano tích điện âm.",
       "Nó sẽ tự động thu nhỏ kích thước thủy động."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 34,
@@ -371,7 +437,9 @@
       "Giúp hạt nano dễ dàng bị màng lọc cầu thận thải trừ.",
       "Phá hủy trực tiếp tế bào ung thư."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 35,
@@ -382,7 +450,9 @@
       "Cả Hard và Soft Corona với độ chính xác ngang nhau",
       "Không lớp vỏ nào"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 36,
@@ -393,7 +463,9 @@
       "Đúng 2 chiều.",
       "Không có chiều nào (chỉ tính cấu trúc bên trong)."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 37,
@@ -404,7 +476,9 @@
       "1D",
       "0D"
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 38,
@@ -415,7 +489,9 @@
       "≥ 50%",
       "≥ 90%"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 39,
@@ -426,7 +502,9 @@
       "Nanostructured material (Vật liệu có cấu trúc nano).",
       "Non-nanomaterial (Vật liệu phi nano)."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 40,
@@ -437,7 +515,9 @@
       "Cho thêm dung dịch acid mạnh để kết tủa màng.",
       "Đưa thẳng vào máy phổ hồng ngoại (FTIR) để làm khô."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 41,
@@ -448,7 +528,9 @@
       "Liposome hòa tan được trong dầu; LNP tan trong nước.",
       "Cấu trúc của chúng hoàn toàn giống hệt nhau, chỉ khác tên gọi."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 42,
@@ -459,7 +541,9 @@
       "Cùng dựa trên cơ chế thay thế dung môi gây ra sự quá bão hòa đột ngột để tự lắp ráp.",
       "Cùng sử dụng các mononer để thực hiện phản ứng nối chuỗi."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 43,
@@ -470,7 +554,9 @@
       "Sự thay đổi bản chất của các liên kết hóa học cộng hóa trị.",
       "Sự thay đổi bản chất của các liên kết hóa học cộng hóa trị."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 44,
@@ -481,7 +567,9 @@
       "Lớp vỏ PEG chủ động bắt giữ protein để ngụy trang.",
       "Kháng thể của cơ thể cố tình tạo ra vỏ bọc để bảo vệ hạt nano."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 45,
@@ -492,7 +580,9 @@
       "Sự phân rã phóng xạ của các đồng vị vàng.",
       "Sự chuyển đổi trạng thái của phân tử nước xung quanh bề mặt vàng."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 46,
@@ -503,7 +593,9 @@
       "Hạt hút lẫn nhau cực kỳ mạnh mẽ trong môi trường máu.",
       "Hạt chỉ có từ tính khi đặt trong từ trường ngoài, và từ tính biến mất (từ dư = 0) khi ngắt từ trường."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 47,
@@ -514,7 +606,9 @@
       "Cơ thể sinh ra kháng thể đặc hiệu chống lại PEG (Anti-PEG antibodies).",
       "PEG biến đổi thành chất độc gây phá hủy màng hồng cầu."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 48,
@@ -525,7 +619,9 @@
       "Hiện tượng \"Protein Corona\" hình thành ngay khi vào máu, che khuất hoàn toàn các đầu dò hướng đích khiến hạt nano mất khả năng nhận diện thụ thể.",
       "Nhiệt độ cơ thể làm phân hủy kháng thể."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 49,
@@ -536,7 +632,9 @@
       "Khi kích thước hạt giảm, tỷ lệ S/V tăng mạnh, dẫn đến năng lượng tự do bề mặt tăng cao.",
       "Tỷ lệ S/V không ảnh hưởng đến khả năng xúc tác và phản ứng hóa học của hạt."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 50,
@@ -547,7 +645,9 @@
       "Sự triệt tiêu năng lượng của các mức năng lượng gián đoạn.",
       "Lực hút Van der Waals chiếm ưu thế hoàn toàn để làm giảm năng lượng tự do bề mặt khổng lồ."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 51,
@@ -558,7 +658,9 @@
       "Điều chỉnh pH của máu xuống mức axit.",
       "Tăng kích thước hạt nano lên trên 500 nm."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 52,
@@ -569,7 +671,9 @@
       "Dòng chảy plasma siêu tới hạn.",
       "Chuyển động Brown ngẫu nhiên đa hướng."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 53,
@@ -580,7 +684,9 @@
       "Vì nó không tan trong nước và có nhiệt độ sôi thấp.",
       "Vì nó đóng vai trò là monomer để tổng hợp hạt nano."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 54,
@@ -591,7 +697,9 @@
       "Tiêu diệt vi khuẩn trong quá trình tạo hạt.",
       "Tăng tốc độ bay hơi của dung môi hữu cơ."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 55,
@@ -602,7 +710,9 @@
       "Xúc tác cho quá trình phân hủy sinh học của cấu trúc lõi hạt nano.",
       "Chuyển đổi trạng thái bề mặt hạt từ ưa nước sang siêu kỵ nước."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 56,
@@ -613,7 +723,9 @@
       "Dung môi hữu cơ sẽ mất khả năng khuếch tán vào trong môi trường nước.",
       "Polymer sẽ kết tụ ngay thành các mảng cặn vĩ mô thay vì tạo hạt nano."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 57,
@@ -624,7 +736,9 @@
       "Để proton hóa lipid ion hóa, giúp nó liên kết chặt chẽ với mRNA.",
       "Để hòa tan Cholesterol."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 58,
@@ -635,7 +749,9 @@
       "Cắt đứt các chuỗi polymer thành các mảnh nhỏ hơn.",
       "Lọc bỏ các hạt nano có kích thước quá lớn."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 59,
@@ -646,7 +762,9 @@
       "Các hạt nano lập tức dung hợp với nhau thành một giọt dầu kích thước lớn.",
       "Polymer PLGA bị đứt gãy chuỗi và chuyển ngược thành các đơn phân tử."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 60,
@@ -657,7 +775,9 @@
       "Nó thủy phân nhanh chóng lượng ATP nội lòng, đẩy môi trường pH trong túi tăng dần lên mức kiềm tính (pH 8.0).",
       "Nó kích hoạt các enzyme tiêu hóa hoạt động mạnh mẽ ngay khi hạt nano vừa bước qua khỏi màng sinh chất."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 61,
@@ -668,7 +788,9 @@
       "Sự kéo dãn của các sợi vi ống (microtubules) hai bên đầu túi làm màng túi bị đứt gãy do lực cơ học quá mạnh.",
       "Sự kết tinh của phân tử polymer ở môi trường acid tạo ra các mũi nhọn đâm thủng màng túi từ bên trong."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 62,
@@ -679,7 +801,9 @@
       "Sự kích hoạt các enzyme tiêu hóa nội tại của tế bào bởi các chùm hạt photon hồng ngoại gần có mức năng lượng cao.",
       "Sự rung động cơ học ở tần số siêu âm của các phân tử nhạy sáng làm đứt gãy hoàn toàn các liên kết hóa trị trên màng."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 63,
@@ -690,7 +814,9 @@
       "Khi hạt đã tiến vào Endolysosome (pH 4.5 - 5.0), vì môi trường siêu acid sẽ giúp đẩy nhanh tốc độ tan rã của hệ hạt LNP.",
       "Chỉ sau khi túi Endolysosome đã tái tạo thành mạng lưới Trans-Golgi để dược chất đi thẳng vào trong nhân tế bào an toàn."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 64,
@@ -701,7 +827,9 @@
       "Giữa Late Endosome muộn và các Lysosome nguyên thủy/tiền chế.",
       "Giữa màng sinh chất của tế bào và màng của Bộ máy Golgi."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 65,
@@ -712,7 +840,9 @@
       "Độ pH tăng dần từ mức trung tính ban đầu lên mức kiềm tính rất mạnh (khoảng 8.5) khi chạm đến mạng lưới nội chất.",
       "Độ pH thay đổi liên tục theo chu kỳ, lúc thì acid, lúc thì kiềm tùy thuộc vào loại hạt nano đi vào trong vùng bào tương."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 66,
@@ -723,7 +853,9 @@
       "Vì bào quan này tự động xuất bào, tống toàn bộ lượng thuốc vừa đi vào tế bào ngược trở lại môi trường máu tuần hoàn.",
       "Vì bào quan này tạo ra từ trường mạnh, làm thay đổi cấu trúc điện tích hạt nano, khiến chúng tự kết tụ thành một khối lớn."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 67,
@@ -734,7 +866,9 @@
       "Tách rời khỏi mạng lưới nội chất để di chuyển nhanh chóng dọc theo hệ thống vi ống nhằm tống ngược dược chất ra ngoại bào.",
       "Phá vỡ màng túi endosome để giải phóng dược chất ra ngoài bào tương trước khi túi này bị dung hợp và tiêu hủy bởi tiêu thể."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 68,
@@ -745,7 +879,9 @@
       "Lipid trung hòa hòa tan hoàn toàn vào lớp màng endosome, làm giảm độ nhớt và làm tan chảy túi màng nhanh chóng.",
       "Lipid mang điện dương tiết ra các enzyme kỵ khí, trực tiếp cắt đứt các liên kết ester của phân tử phospholipid màng."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 69,
@@ -756,7 +892,9 @@
       "Chuyển từ cấu trúc dạng sợi siêu xoắn (supercoiled) sang dạng chuỗi thẳng kỵ nước hoàn toàn để hòa tan vào màng túi.",
       "Chuyển từ trạng thái đơn phân (monomer) sang trạng thái polymer hóa tạo thành lớp vỏ cứng đập vỡ màng endosome."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 70,
@@ -767,7 +905,9 @@
       "Phức hợp SNARE (Soluble N-ethylmaleimide-sensitive factor activating protein receptor)",
       "Phức hợp HOPS (Homotypic Fusion and Vacuolar Protein Sorting complex)"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 71,
@@ -778,7 +918,9 @@
       "Chúng lập tức liên kết tĩnh điện với protein huyết thanh mang điện âm, gây kết tụ hạt và tắc nghẽn vi tuần hoàn.",
       "Chúng kích thích quá trình xuất bào liên tục, khiến tế bào đích tống toàn bộ lượng thuốc ra ngoài ngay khi hấp thu."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 72,
@@ -789,7 +931,9 @@
       "Chúng tự động biến đổi thành các phân tử sinh học tương thích, cung cấp năng lượng trực tiếp cho tế bào dưới dạng ATP.",
       "Chúng hòa tan ngay lập tức thành các ion kim loại tự do để khuếch tán qua màng lysosome và đóng vai trò như chất khoáng."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 73,
@@ -800,7 +944,9 @@
       "Hạt nano có kích thước lớn hơn 1000 nm dễ dàng vượt qua màng sinh chất thông qua sự khuếch tán thụ động (Passive diffusion) qua lớp lipid.",
       "Hạt nano có kích thước cực nhỏ dưới 10 nm luôn luôn bị mắc kẹt hoàn toàn bên ngoài màng tế bào vì không đủ khối lượng để tạo lực ép màng."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 74,
@@ -811,7 +957,9 @@
       "Bơm v-ATPase sẽ tự động đảo ngược chiều hoạt động, tống toàn bộ hạt nano ngược ra ngoài môi trường ngoại bào.",
       "Polymer PEI sẽ tự động chuyển sang cơ chế đâm thủng màng vật lý thay vì dựa vào sự trương nở do áp suất nước."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 75,
@@ -822,7 +970,9 @@
       "Khoảng 7.4 - 7.8",
       "Khoảng 8.5 - 9.0"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 76,
@@ -833,7 +983,9 @@
       "Được chuyển thẳng vào bên trong màng nhân tế bào thông qua hệ thống lỗ nhân nhờ thụ thể vận chuyển Importin.",
       "Bị đóng gói vĩnh viễn trong các túi tự thực (Autophagosome) và không bao giờ tương tác với bất kỳ bào quan nào."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 77,
@@ -844,7 +996,9 @@
       "Đường kính của hạt chỉ tính riêng lớp màng lipid kép.",
       "Đường kính của hạt sau khi đã bị sấy khô và mất nước hoàn toàn."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 78,
@@ -855,7 +1009,9 @@
       "PDI nằm trong khoảng 0.5 - 0.7",
       "PDI = 1.0"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 79,
@@ -866,7 +1022,9 @@
       "Các protein huyết tương (Opsonin) bám lên bề mặt hạt tạo thành lớp vỏ \"Protein Corona\".",
       "Hạt nano chuyển từ điện tích âm sang điện tích dương."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 80,
@@ -877,7 +1035,9 @@
       "Điện tích dương mạnh (> +20 mV)",
       "Điện tích âm nhẹ (~ -10 mV)"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 81,
@@ -888,7 +1048,9 @@
       "Nó tạo ra lỗ thủng trên túi endosome sớm, giúp giải phóng các dược chất acid nucleic (DNA/RNA) vào bào tương.",
       "Nó hoạt động như một chiếc thòng lọng tiêu thụ GTP để thít chặt và cắt đứt cổ túi nội bào, giải phóng túi vào trong."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 82,
@@ -899,7 +1061,9 @@
       "Môi trường pH thấp của vi môi trường khối u đã làm hòa tan hoàn toàn lõi kim loại/polymer của hệ thống hạt nano.",
       "Các đại thực bào tại khối u đã tiếp tiết ra các enzyme đặc hiệu cắt đứt mọi thụ thể trên màng tế bào đích liền kề."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 83,
@@ -910,7 +1074,9 @@
       "Hạt nano thường phải có kích thước từ 100 nm đến 150 nm để phù hợp với cấu trúc không gian của mạng lưới.",
       "Hạt nano thường phải có kích thước trên 500 nm để tạo đủ lực cơ học ép màng tế bào uốn cong thành túi."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 84,
@@ -921,7 +1087,9 @@
       "Dòng máu trong khối u chảy quá nhanh.",
       "Mật độ tế bào nội mô quá thưa thớt."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 85,
@@ -932,7 +1100,9 @@
       "Ẩm bào vĩ mô",
       "Transcytosis"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 86,
@@ -943,7 +1113,9 @@
       "Thoát khỏi Endosome.",
       "Kết dính với ty thể."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 87,
@@ -954,7 +1126,9 @@
       "Sự tích tụ của Caveolin-1.",
       "Sự phân giải của Dynamin."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 88,
@@ -965,7 +1139,9 @@
       "Hạt mang điện dương (+) thường bám dính tốt hơn vào màng tế bào và được hấp thu hiệu quả hơn.",
       "Điện tích bề mặt hoàn toàn không ảnh hưởng đến sự hấp thu."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 89,
@@ -976,7 +1152,9 @@
       "Lớp áo Corona protein (Protein corona)",
       "Hiệu ứng bọt biển proton"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 90,
@@ -987,7 +1165,9 @@
       "Để tận dụng con đường nhập bào qua trung gian thụ thể, tăng tính chọn lọc vào tế bào đích",
       "Để giảm khối lượng của hạt nano."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 91,
@@ -998,7 +1178,9 @@
       "Vì tốc độ vận chuyển màng đáy xảy ra rất nhanh, trong khi quá trình trưởng thành của Endosome thành Lysosome diễn ra chậm hơn nhiều.",
       "Vì hạt nano trực tiếp ức chế enzyme phân hủy."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 92,
@@ -1009,7 +1191,9 @@
       "Mạch máu khối u ở chuột không có tế bào nội mô.",
       "Nhiệt độ cơ thể người thấp hơn chuột làm giảm động năng của hạt nano."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 93,
@@ -1020,7 +1204,9 @@
       "Tăng kích thước hạt nano lên trên 500 nm để ép thủng ECM.",
       "Biến đổi hạt nano thành dạng khí."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 94,
@@ -1031,7 +1217,9 @@
       "Bị mắc kẹt do tương tác tĩnh điện với các thành phần mang điện âm của Ma trận ngoại bào.",
       "Bị phân hủy ngay lập tức bởi hệ đệm bicarbonate."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 95,
@@ -1042,7 +1230,9 @@
       "Sự hình thành giàn giáo Clathrin tại màng đáy.",
       "Sự phá vỡ màng túi endosome bằng hiệu ứng \"bọt biển proton\"."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 96,
@@ -1053,7 +1243,9 @@
       "Clathrin-mediated Endocytosis",
       "Caveolae-mediated Endocytosis"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 97,
@@ -1064,7 +1256,9 @@
       "Neonatal Fc Receptor (FcRn)",
       "Thụ thể gp60"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 98,
@@ -1075,7 +1269,9 @@
       "Tương tác kỵ nước giữa hạt nano và nhân tế bào.",
       "Liên kết hydro giữa hạt nano và các kênh ion."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 99,
@@ -1086,7 +1282,9 @@
       "Dynamin",
       "Rab5"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 100,
@@ -1097,7 +1295,9 @@
       "Để tăng khả năng hòa tan của hạt nano trong máu.",
       "Để ngăn chặn sự hình thành Protein Corona."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 101,
@@ -1108,7 +1308,9 @@
       "Số lượng hồng cầu bị vỡ trong khối u quá lớn.",
       "Sự kết tủa của canxi trong môi trường acid khối u."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 102,
@@ -1119,7 +1321,9 @@
       "Hạt lớn dễ sản xuất, nhưng hạt nhỏ rẻ tiền hơn.",
       "Hạt lớn tan trong nước, hạt nhỏ tan trong lipid."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 103,
@@ -1130,7 +1334,9 @@
       "Thay đổi điện tích từ trung tính sang dương (proton hóa) khi môi trường Endosome hạ pH, qua đó tương tác phá vỡ màng Endosome và giải phóng mRNA vào bào tương.",
       "Bám trực tiếp vào phức hợp lỗ màng nhân (Nuclear pore complex) để kéo mRNA vào trong nhân tế bào."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 104,
@@ -1141,7 +1347,9 @@
       "Hình khối lập phương",
       "Hạt có bề mặt xốp"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 105,
@@ -1152,7 +1360,9 @@
       "Sử dụng hạt nano có kích thước > 500 nm.",
       "Tăng điện tích dương trên bề mặt hạt nano."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 106,
@@ -1163,7 +1373,9 @@
       "Rab11",
       "Rab27a"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 107,
@@ -1174,7 +1386,9 @@
       "Túi có pH acid giúp kích hoạt nhả thuốc ngay trong tế bào nội mô.",
       "Bỏ qua hệ thống Endosome/Lysosome, giúp hạt nano không bị tiêu hủy."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 108,
@@ -1185,7 +1399,9 @@
       "Sự di chuyển tập trung ở trục giữa của các hồng cầu, đẩy hạt nhỏ ra ngoại vi.",
       "Áp suất thẩm thấu cao của huyết tương."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 109,
@@ -1196,7 +1412,9 @@
       "Hạt nano bị thực bào nhanh chóng bởi hệ thống đơn nhân ở gan và lách.",
       "Kích hoạt con đường nhập bào qua trung gian Clathrin tại khối u."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 110,
@@ -1207,7 +1425,9 @@
       "Bị thực bào bởi đại thực bào và mang vào khối u.",
       "Phá vỡ trực tiếp màng tế bào nội mô."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 111,
@@ -1218,7 +1438,9 @@
       "Gồm các protein kỵ nước bám lỏng lẻo ở lớp ngoài cùng, liên tục thay đổi cấu trúc theo sự di chuyển của hạt nano.",
       "Gồm hoàn toàn các kháng thể của hệ miễn dịch, lập tức kích hoạt chuỗi phản ứng viêm ngay khi hạt nano vào máu."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 112,
@@ -1229,7 +1451,9 @@
       "Các protein có nồng độ cao bám vào trước, sau đó bị thay thế bởi các protein có ái lực mạnh hơn nhưng nồng độ thấp.",
       "Lớp vỏ protein sẽ bị phân hủy hoàn toàn khi hạt nano di chuyển từ môi trường máu (pH 7.4) vào khối u (pH 6.5)."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 113,
@@ -1240,7 +1464,9 @@
       "Nó luôn luôn ngăn chặn 100% sự hấp thu của đại thực bào.",
       "Nó giúp hạt nano khuếch tán thụ động qua màng một cách dễ dàng."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 114,
@@ -1251,7 +1477,9 @@
       "Để hạt nano gắn vào ty thể và sản sinh ATP.",
       "Để hạt nano hòa tan vào lưới nội chất hạt."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 115,
@@ -1262,7 +1490,9 @@
       "Tất cả đều là quá trình chủ động và phụ thuộc vào năng lượng.",
       "Tất cả đều yêu cầu sự có mặt của ion Sắt (Fe) làm xúc tác."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 116,
@@ -1273,7 +1503,9 @@
       "Nhập bào (Endocytosis)",
       "Thẩm thấu (Osmosis)"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 117,
@@ -1284,7 +1516,9 @@
       "Khoảng 500 - 1000 nm",
       "> 1000 nm"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 118,
@@ -1295,7 +1529,9 @@
       "200 - 300 nm",
       "> 500 nm"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 119,
@@ -1306,7 +1542,9 @@
       "Đại thực bào (Macrophages)",
       "Tế bào cơ vân (Striated muscle cells)"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 120,
@@ -1317,7 +1555,9 @@
       "Hình thành các nếp gấp màng tế bào do sự sắp xếp lại sợi actin để cuộn lấy một lượng lớn dịch ngoại bào và hạt nano.",
       "Không tiêu tốn năng lượng sinh học (ATP)."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 121,
@@ -1328,7 +1568,9 @@
       "Các hạt nano tự động tạo liên kết cộng hóa trị với nhau.",
       "Protein máu tiêu hóa hạt nano thành các acid amin."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 122,
@@ -1339,7 +1581,9 @@
       "Lớn hơn 20 nm rất nhiều",
       "DLS không thể đo được hydrogel."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 123,
@@ -1350,7 +1594,9 @@
       "Hiệu ứng EPR",
       "Sự phá hủy màng bằng nhiệt."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 124,
@@ -1361,7 +1607,9 @@
       "Tạo các dạng oxy phản ứng",
       "Luôn làm tăng tốc độ sinh sản của vi khuẩn"
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 125,
@@ -1372,7 +1620,9 @@
       "Tăng tổng hợp ATP",
       "Tăng khả năng sinh sản của tế bào"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 126,
@@ -1383,7 +1633,9 @@
       "Gây stress oxy hóa",
       "Tất cả các đáp án trên"
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 127,
@@ -1394,7 +1646,9 @@
       "DNA",
       "Tất cả các đáp án trên"
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 128,
@@ -1405,7 +1659,9 @@
       "Vật liệu nha khoa chứa nanomaterial kháng khuẩn",
       "Tất cả các đáp án trên"
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 129,
@@ -1416,7 +1672,9 @@
       "Khả năng lưu thông trong máu luôn tăng",
       "Nanoparticle trở nên an toàn hơn do kích thước tăng"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 130,
@@ -1427,7 +1685,9 @@
       "Khả năng loại bỏ hoàn toàn nước khỏi cơ thể",
       "Khả năng làm thuốc trở thành một protein"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 131,
@@ -1438,7 +1698,9 @@
       "Sai, vì điện tích bề mặt chỉ là một trong nhiều yếu tố ảnh hưởng đến tương tác giữa nanocarrier và tế bào",
       "Sai, vì nanoparticle không thể tương tác với màng tế bào"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 132,
@@ -1449,7 +1711,9 @@
       "Làm peptide phân hủy nhanh hơn",
       "Loại bỏ hoàn toàn lớp bảo vệ của nanocarrier"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 133,
@@ -1460,7 +1724,9 @@
       "Tính kháng khuẩn của AgNP không đồng nghĩa với khả năng mang protein",
       "Chỉ cần giảm kích thước AgNP xuống 5 nm là chắc chắn giải quyết được vấn đề"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 134,
@@ -1471,7 +1737,9 @@
       "Thay thế hoàn bộ các phương pháp điều trị truyền thống như phẫu thuật và xạ trị ở mọi giai đoạn bệnh.",
       "Biến đổi hoàn toàn cấu trúc di truyền của tế bào lành để kháng lại các tác nhân gây bệnh từ bên ngoài."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 135,
@@ -1482,7 +1750,9 @@
       "Biến RNA thành DNA xoắn kép.",
       "Giúp hạt nano dễ dàng vượt qua hàng rào máu não."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 136,
@@ -1493,7 +1763,9 @@
       "Biến LNP thành Exosome.",
       "Phá vỡ liên kết của axit nucleic."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 137,
@@ -1504,7 +1776,9 @@
       "Kháng thể người không thể nhận diện được PLGA.",
       "Nó có cấu trúc giống hệt mARN của con người."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 138,
@@ -1515,7 +1789,9 @@
       "Khả năng phản chiếu tia X 100%.",
       "Khả năng tự xúc tác sinh ra gốc tự do (ROS)."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 139,
@@ -1526,7 +1802,9 @@
       "PEG rất đắt tiền, gây khó khăn cho việc sản xuất ở quy mô công nghiệp.",
       "PEG tự động phân hủy thành acid lactic gây ngộ độc tế bào."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 140,
@@ -1537,7 +1815,9 @@
       "Liposome luôn mang điện dương, còn exosome luôn mang điện âm",
       "Liposome chỉ chứa thuốc phân tử nhỏ, còn exosome chỉ chứa RNA"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 141,
@@ -1548,7 +1828,9 @@
       "Cần cân nhắc lại vì hiệu quả kháng khuẩn phải được đánh giá cùng với tính tương hợp sinh học và độc tính",
       "Vì nanoparticle diệt được vi khuẩn nên độc tính đối với tế bào người không quan trọng"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 142,
@@ -1559,7 +1841,9 @@
       "AgNP chỉ diệt khuẩn thông qua tác động cơ học lên màng tế bào",
       "Lớp polymer làm tăng tốc độ giải phóng Ag+"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 143,
@@ -1570,7 +1854,9 @@
       "Nhiệt độ của khối u luôn thấp hơn cơ thể.",
       "Mật độ oxy cao (Hyperoxia) trong lõi khối u."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 144,
@@ -1581,7 +1867,9 @@
       "100 - 200 nm",
       "> 500 nm"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 145,
@@ -1592,7 +1880,9 @@
       "500 - 1000 nm",
       "> 2000 nm"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 146,
@@ -1603,7 +1893,9 @@
       "Áp suất dịch mô kẽ cao (High Interstitial Fluid Pressure - IFP).",
       "Mật độ mạch máu trong lõi khối u quá dày đặc."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 147,
@@ -1614,7 +1906,9 @@
       "Trương nở và co cụm do đáp ứng nhiệt độ môi trường.",
       "Áp suất thẩm thấu ép dung dịch thuốc ra ngoài."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 148,
@@ -1625,7 +1919,9 @@
       "Liên kết Ester.",
       "Cầu nối Disulfide (-S-S-)."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 149,
@@ -1636,7 +1932,9 @@
       "Tránh sự nhận diện của bơm Tống xuất thuốc (Efflux pump/P-gp) trên màng tế bào.",
       "Xuyên qua Hàng rào máu não (BBB)."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 150,
@@ -1647,7 +1945,9 @@
       "Làm bay hơi toàn bộ phân tử nước trong hạt nano.",
       "Thay đổi điện tích bề mặt của LNP từ dương sang âm."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 151,
@@ -1658,7 +1958,9 @@
       "Hạt nano Vàng.",
       "Phức hợp kháng thể - RNA."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 152,
@@ -1669,7 +1971,9 @@
       "Sự chênh lệch nhiệt độ giữa khối u và mô lành.",
       "Hạt nano tự bám vào các thụ thể Transferrin trên bề mặt u."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 153,
@@ -1680,7 +1984,9 @@
       "CD47.",
       "Histamine."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 154,
@@ -1691,7 +1997,9 @@
       "Chuyển động Brown của các hạt.",
       "Sự kết tủa của các hạt dưới tác dụng của trọng lực."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 155,
@@ -1702,7 +2010,9 @@
       "Mặt phẳng trượt phân cách giữa lớp nước hydrate hóa di chuyển cùng hạt và dung môi tự do.",
       "Tại vô cực trong dung dịch gốc (Bulk solution)."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 156,
@@ -1713,7 +2023,9 @@
       "Lớn hơn +30 mV hoặc nhỏ hơn -30 mV",
       "Từ +10 mV đến +20 mV"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 157,
@@ -1724,7 +2036,9 @@
       "Trị tuyệt đối của thế Zeta sẽ giảm đi tiến về gần 0 do hiện tượng nén lớp điện kép.",
       "Hạt sẽ lập tức tích điện dương."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 158,
@@ -1735,7 +2049,9 @@
       "Thụ thể CD4.",
       "Cholesterol."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 159,
@@ -1746,7 +2062,9 @@
       "Thay thế Iod trong chụp CT cắt lớp.",
       "Tiêu diệt vi khuẩn gram âm nhờ sóng điện từ."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 160,
@@ -1757,7 +2075,9 @@
       "Nhiệt độ cơ thể chuột cao hơn nhiệt độ người.",
       "Kích thước hồng cầu của chuột nhỏ hơn hồng cầu người."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 161,
@@ -1768,7 +2088,9 @@
       "Lớp nội mô mạch máu bị rò rỉ (khe hở lớn) và hệ bạch huyết bị suy giảm chức năng.",
       "Môi trường khối u có tính acid cao làm kết tủa hạt nano"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 162,
@@ -1779,7 +2101,9 @@
       "Giảm thiểu độc tính nghiêm trọng trên các cơ quan khỏe mạnh.",
       "Phá vỡ hoàn toàn hàng rào máu não (BBB)."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 163,
@@ -1790,7 +2114,9 @@
       "Hạt nano bị thực bào bởi các tế bào ung thư trước khi đến đích.",
       "Sự phá hủy phối tử bởi môi trường kiềm trong máu."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 164,
@@ -1801,7 +2127,9 @@
       "Là kỹ thuật biến đổi cấu trúc hóa học của phân tử thuốc nhỏ để làm giảm khối lượng phân tử, giúp thuốc tự do khuếch tán qua mọi tế bào.",
       "Là quy trình đông khô dung dịch thuốc nhằm kéo dài hạn bảo quản mà không làm thay đổi đặc tính dược động học in vivo."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 165,
@@ -1812,7 +2140,9 @@
       "Nhóm polymer tổng hợp (Synthetic polymeric nanocarriers); cấu trúc mạng lưới liên kết cộng hóa trị cứng vững.",
       "Nhóm khung cơ - kim (Metal-Organic Frameworks - MOFs); cấu trúc xốp phối trí giữa ion kim loại và các cầu nối hữu cơ."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 166,
@@ -1823,7 +2153,9 @@
       "Có khả năng ức chế hoặc tiêu diệt vi sinh vật",
       "Chỉ có khả năng tiêu diệt virus"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 167,
@@ -1834,7 +2166,9 @@
       "Vì tỷ lệ diện tích bề mặt trên thể tích tăng và tính chất bề mặt có thể thay đổi",
       "Vì vật liệu nano luôn hòa tan hoàn toàn trong nước"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 168,
@@ -1845,7 +2179,9 @@
       "Điện tích dương có thể tăng tương tác tĩnh điện với bề mặt vi khuẩn, nhưng không phải điều kiện bắt buộc để có tính kháng khuẩn",
       "Điện tích bề mặt không ảnh hưởng đến tương tác nano-vi khuẩn"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 169,
@@ -1856,7 +2192,9 @@
       "Collagen",
       "Keratin"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 170,
@@ -1867,7 +2205,9 @@
       "Tăng kích thước hạt nano lên > 1000 nm để không bị đào thải qua gan.",
       "Biến đổi hạt nano thành dạng có điện tích dương mạnh để đẩy lùi protein máu."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 171,
@@ -1878,7 +2218,9 @@
       "> 100 nm",
       "> 500 nm"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 172,
@@ -1889,7 +2231,9 @@
       "Từ trường làm biến tính các thuốc hóa trị mang bên trong hạt.",
       "Từ trường kích hoạt khối u phát triển nhanh hơn."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 173,
@@ -1900,7 +2244,9 @@
       "Áp suất kẽ (IFP) rất thấp và mạch máu co thắt liên tục.",
       "Nhiệt độ rất thấp (< 30°C) và nghèo enzyme."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 174,
@@ -1911,7 +2257,9 @@
       "Vì chúng mang điện tích âm mạnh, kích thước lớn và ưa nước.",
       "Vì chúng mang điện tích dương, bị màng tế bào đẩy ra."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 175,
@@ -1922,7 +2270,9 @@
       "Lipid ion hóa (Ionizable lipid)",
       "Lipid hỗ trợ (Helper lipid - DSPC)"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 176,
@@ -1933,7 +2283,9 @@
       "Exosome không thể chứa được bất kỳ phân tử RNA nào bên trong.",
       "Exosome tự động phân hủy ngay khi ra khỏi tế bào mẹ."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 177,
@@ -1944,7 +2296,9 @@
       "Dùng hiệu ứng bọt biển proton để xé rách màng.",
       "Bơm trực tiếp qua các kênh ion (Ion channels)."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 178,
@@ -1955,7 +2309,9 @@
       "Phân hủy hoàn toàn scaffold.",
       "Vận chuyển DNA ra khỏi tế bào."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 179,
@@ -1966,7 +2322,9 @@
       "Vì toàn bộ tế bào biến thành nanoparticle.",
       "Vì nanotopography luôn giải phóng DNA vào tế bào."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 180,
@@ -1977,7 +2335,9 @@
       "Growth factor và polymer đều chỉ nằm trên bề mặt.",
       "Không thể sử dụng electrospinning để tạo cấu trúc core–shell."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 181,
@@ -1988,7 +2348,9 @@
       "Hỗ trợ nhận diện, khuếch đại/chuyển đổi hoặc phát hiện tín hiệu",
       "Thay thế hoàn toàn thiết bị xét nghiệm"
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 182,
@@ -1999,7 +2361,9 @@
       "Detector",
       "Dung môi"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 183,
@@ -2010,7 +2374,9 @@
       "Luôn có tính độc cao",
       "Luôn phát huỳnh quang"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 184,
@@ -2021,7 +2387,9 @@
       "Biomarker phát ra ánh sáng tím",
       "AuNP chuyển thành quantum dots"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 185,
@@ -2032,7 +2400,9 @@
       "Antibody bị biến thành enzyme",
       "Nồng độ oxygen trong nước giảm"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 186,
@@ -2043,7 +2413,9 @@
       "Ngăn chặn hoàn toàn phản ứng viêm của cơ thể.",
       "Hạn chế sự tiêu hao nguyên vật liệu khi tổng hợp."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 187,
@@ -2054,7 +2426,9 @@
       "Thụ thể Integrin liên kết với hệ khung xương tế bào.",
       "Các enzyme phân giải protein tiết ra ngoài màng."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 188,
@@ -2065,7 +2439,9 @@
       "Tạo ra khối tinh thể kim loại siêu cứng không thể phá vỡ.",
       "Hấp thụ toàn bộ nước xung quanh làm khô vùng mô xương."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 189,
@@ -2076,7 +2452,9 @@
       "Tinh thể Canxi Oxalat.",
       "Chondroitin sulfate."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 190,
@@ -2087,7 +2465,9 @@
       "Tạo ra cơ chế nhả chậm tuyến tính kéo dài trong nhiều tháng.",
       "Protein lập tức biệt hóa tế bào gốc thành tế bào mỡ."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 191,
@@ -2098,7 +2478,9 @@
       "Tạo điểm bám dính đặc hiệu cho thụ thể trên tế bào.",
       "Kích thích sự thủy phân phân hủy của khung polymer."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 192,
@@ -2109,7 +2491,9 @@
       "Làm tăng đường kính sợi lên mức micromet để chịu lực.",
       "Triệt tiêu hoàn toàn độ xốp của màng lưới vật liệu."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 193,
@@ -2120,7 +2504,9 @@
       "Collagen làm integrin đi từ nhân ra ngoài màng tế bào.",
       "Collagen biến trực tiếp thành actin trong cytoskeleton."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 194,
@@ -2131,7 +2517,9 @@
       "Sự thay đổi độ xốp scaffold",
       "Sự thay đổi độ cứng vật liệu"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 195,
@@ -2142,7 +2530,9 @@
       "Fibronectin đã hoạt hóa toàn bộ gene biệt hóa.",
       "Fibronectin đã thay thế hoàn toàn ECM tự nhiên."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 196,
@@ -2153,7 +2543,9 @@
       "DNA – RNA – protein",
       "Polymer – kim loại – ceramic"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 197,
@@ -2164,7 +2556,9 @@
       "ECM vừa cung cấp môi trường vật lý vừa cung cấp các tín hiệu hóa học và cơ học cho tế bào.",
       "ECM chỉ tồn tại ở mô xương."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 198,
@@ -2175,7 +2569,9 @@
       "Vì tế bào của các mô khác nhau không thể sống trên polymer.",
       "Vì nanomaterial chỉ sử dụng được cho một loại mô."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 199,
@@ -2186,7 +2582,9 @@
       "Hyaluronic acid + elastin",
       "Keratin + lipid"
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 200,
@@ -2197,7 +2595,9 @@
       "Để ngăn hoàn toàn sự phân hủy scaffold.",
       "Để loại bỏ mọi tương tác giữa tế bào và scaffold."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 201,
@@ -2208,7 +2608,9 @@
       "Một loại nanoparticle dùng để tạo nhiệt.",
       "Một loại GAG trong ECM."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 202,
@@ -2219,7 +2621,9 @@
       "Integrin không nằm trên màng tế bào.",
       "Tế bào không có khả năng nhận biết bề mặt."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 203,
@@ -2230,7 +2634,9 @@
       "Có khả năng tạo màu và hấp thụ tia X",
       "Có khả năng phân hủy biomarker thành sản phẩm mới"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 204,
@@ -2241,7 +2647,9 @@
       "Tách biomarker bằng nam châm",
       "Tạo nanoparticle từ biomarker"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 205,
@@ -2252,7 +2660,9 @@
       "Loại biomarker được nhận diện",
       "Vị trí liên kết của antibody"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 206,
@@ -2263,7 +2673,9 @@
       "Giảm số lượng recognition element trên sensor",
       "Loại bỏ hoàn toàn nanoparticle khỏi hệ"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 207,
@@ -2274,7 +2686,9 @@
       "AuNP-based colorimetric sensor",
       "SPION-based MRI contrast agent"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 208,
@@ -2285,7 +2699,9 @@
       "Carbon nanotubes",
       "Nanoparticle silica"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 209,
@@ -2296,7 +2712,9 @@
       "Do chúng có từ tính khác nhau",
       "Do biomarker hấp thụ ánh sáng khác nhau"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 210,
@@ -2307,7 +2725,9 @@
       "Có thể làm biomarker phát ra Raman",
       "Có thể biến biomarker thành nanoparticle"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 211,
@@ -2318,7 +2738,9 @@
       "Tạo fluorescence từ biomarker",
       "Làm tăng nhiệt độ của mẫu"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 212,
@@ -2329,7 +2751,9 @@
       "Quantum dot",
       "Liposome"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 213,
@@ -2340,7 +2764,9 @@
       "Kênh Natri-Kali (Na+/K+ ATPase)",
       "Kháng thể IgG"
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 214,
@@ -2351,7 +2777,9 @@
       "Hạt nano Vàng (AuNPs) để hấp thụ bức xạ tia X.",
       "Hạt Liposome mang thuốc kích thích phân bào."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 215,
@@ -2362,7 +2790,9 @@
       "Hòa tan hoàn toàn màng tế bào gốc để giải phóng DNA vào trong khung đỡ.",
       "Biến đổi cấu trúc gen của tế bào gốc thành tế bào xương trưởng thành."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 216,
@@ -2373,7 +2803,9 @@
       "Quantum Dots (Chấm lượng tử CdSe).",
       "Liposome."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 217,
@@ -2384,7 +2816,9 @@
       "Lõi khối u có áp lực dịch kẽ cao.",
       "Nhiệt độ khối u thấp."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 218,
@@ -2395,7 +2829,9 @@
       "Tích hợp đồng thời cả chức năng chẩn đoán và điều trị trên cùng một cấu trúc.",
       "Hệ thống phân phối thuốc thụ động qua đường uống."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 219,
@@ -2406,7 +2842,9 @@
       "Ánh sáng nhìn thấy.",
       "Ánh sáng cận hồng ngoại"
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 220,
@@ -2417,7 +2855,9 @@
       "PDT tạo ra các gốc tự do oxy hóa, còn PTT tạo ra nhiệt năng.",
       "PDT không cần chất nhạy sáng, PTT cần chất nhạy sáng."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 221,
@@ -2428,7 +2868,9 @@
       "Khối u có pH kiềm tính hơn máu tĩnh mạch.",
       "Bề mặt tế bào khối u tích điện dương."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 222,
@@ -2439,7 +2881,9 @@
       "Hiện tượng thải trừ qua thận.",
       "Sự phá hủy của enzyme nuclease."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 223,
@@ -2450,7 +2894,9 @@
       "Mô sinh học hấp thụ ánh sáng và tự phát huỳnh quang thấp nhất ở vùng NIR, giúp đâm xuyên sâu hơn.",
       "Ánh sáng NIR làm tăng kích thước lỗ rò mạch máu khối u."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 224,
@@ -2461,7 +2907,9 @@
       "Khoảng 100 nm (Tối ưu cho EPR).",
       "Lớn hơn 200 nm."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 225,
@@ -2472,7 +2920,9 @@
       "Thay thế hoàn toàn dao mổ bằng laser.",
       "Dừng chảy máu tức thời."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 226,
@@ -2483,7 +2933,9 @@
       "Quá trình nanoparticle đi xuyên qua màng tế bào.",
       "Quá trình scaffold phân hủy thành amino acid."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 227,
@@ -2494,7 +2946,9 @@
       "Vì BMP-2 không thể tương tác với tế bào.",
       "Vì tất cả growth factor đều phải được giải phóng trong vài giây."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 228,
@@ -2505,7 +2959,9 @@
       "Quá trình nanoparticle đi xuyên qua màng tế bào.",
       "Quá trình scaffold phân hủy thành amino acid."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 229,
@@ -2516,7 +2972,9 @@
       "Tương tác điện tích với màng tăng.",
       "Hạt dương có khối lượng lớn hơn."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 230,
@@ -2527,7 +2985,9 @@
       "ROS luôn là dấu hiệu độc tính.",
       "Tế bào có thể đang thích nghi."
     ],
-    "answer": 3
+    "type": "single",
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 231,
@@ -2538,7 +2998,9 @@
       "Kích thước hạt chắc chắn tăng.",
       "Hạt chắc chắn mất hoàn toàn hoạt tính."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 232,
@@ -2549,7 +3011,9 @@
       "Tiêm làm nano mất kích thước.",
       "Hít vào luôn gây độc hơn."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 233,
@@ -2560,7 +3024,9 @@
       "ZnO -> ATP -> DNA -> màng tế bào.",
       "ZnO -> nhân -> lysosome -> Zn2+."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 234,
@@ -2571,7 +3037,9 @@
       "Nano chỉ tác động lên màng ngoài.",
       "Nano chắc chắn không gây stress."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 235,
@@ -2582,7 +3050,9 @@
       "Nano không tương tác với tế bào.",
       "Chất chống oxy hóa phá hủy nanoparticle."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 236,
@@ -2593,7 +3063,9 @@
       "ATP bị chuyển thành Zn2+.",
       "Lysosome lập tức vỡ."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 237,
@@ -2604,7 +3076,9 @@
       "Nó chỉ xảy ra trong ty thể.",
       "Nó làm ATP tăng rất mạnh."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 238,
@@ -2615,7 +3089,9 @@
       "Hai hạt chắc chắn có độc tính giống nhau.",
       "A không thể tạo thêm ROS."
     ],
-    "answer": 0
+    "type": "single",
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 239,
@@ -2626,7 +3102,9 @@
       "Nanoparticle mất hoàn toàn độc tính.",
       "Tế bào nuôi cấy không phải tế bào sống."
     ],
-    "answer": 1
+    "type": "single",
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 240,
@@ -2637,6 +3115,8 @@
       "Độc tính nano phụ thuộc nhiều cơ chế.",
       "Phép đo ROS chắc chắn sai."
     ],
-    "answer": 2
+    "type": "single",
+    "answer": 2,
+    "explanation": ""
   }
 ]
